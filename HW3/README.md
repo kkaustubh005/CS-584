@@ -1,0 +1,3 @@
+- Test/Implement k-means and k-means++ on a sample IRIS dataset
+- Test/Implement k-means and k-means++ on a sample IRIS dataset
+- Check accuracy using VScore and Silhouette coefficient
