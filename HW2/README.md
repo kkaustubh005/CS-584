@@ -1,0 +1,4 @@
+- Use/implement a feature selection/reduction technique.
+- Experiment with various classification models.
+- Think about dealing with imbalanced data.
+- Use F1 Scoring Metric
